@@ -1,0 +1,6 @@
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\bin\Debug\How to FSM.exe.config
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\obj\Debug\How to FSM.csprojResolveAssemblyReference.cache
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\bin\Debug\How to FSM.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\bin\Debug\How to FSM.pdb
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\obj\Debug\How to FSM.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\How to FSM\How to FSM\obj\Debug\How to FSM.pdb
